@@ -1,7 +1,7 @@
 # Brita Filter Card – Home Assistant Lovelace Card
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub release](https://img.shields.io/github/release/lukaszkac/brita-filter-card.svg)](https://github.com/lukaszkac/brita-filter-card/releases)
+[![GitHub release](https://img.shields.io/github/v/release/lukaszkac/brita-filter-card?label=release&style=flat-square)](https://github.com/lukaszkac/brita-filter-card/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Animated Lovelace card for the [Brita Filter](https://github.com/lukaszkac/brita-filter) integration. Shows a water drop that fills based on remaining filter life.
